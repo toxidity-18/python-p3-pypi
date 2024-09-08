@@ -1,0 +1,7 @@
+What si the meaning of the word PYPI
+How is pip and pipenv commands alike
+How to install package from PYPI
+Install requirements.txt and what is it use for 
+How to import modules install into my program.
+What is the main difference between requirements and constraint.txt
+How to uninstall various packages installed
